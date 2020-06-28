@@ -159,6 +159,21 @@ X RB3 9 800 -200 150 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
+# Mechanical_MountingHole
+#
+DEF Mechanical_MountingHole H 0 40 Y Y 1 F N
+F0 "H" 0 200 50 H V C CNN
+F1 "Mechanical_MountingHole" 0 125 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ MountingHole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
 # Transistor_FET_2N7002
 #
 DEF Transistor_FET_2N7002 Q 0 0 Y N 1 F N
@@ -194,11 +209,11 @@ X D 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# custom_ICSP
+# pic16f84_test-rescue_ICSP-custom
 #
-DEF custom_ICSP J 0 40 Y Y 1 F N
+DEF pic16f84_test-rescue_ICSP-custom J 0 40 Y Y 1 F N
 F0 "J" 50 -350 50 H V C CNN
-F1 "custom_ICSP" 50 350 50 H V C CNN
+F1 "pic16f84_test-rescue_ICSP-custom" 50 350 50 H V C CNN
 F2 "" 150 250 50 H I C CNN
 F3 "" 150 250 50 H I C CNN
 DRAW
