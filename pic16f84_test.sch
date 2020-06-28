@@ -826,7 +826,7 @@ U 1 1 5EF8E59E
 P 2400 6050
 F 0 "H1" H 2500 6096 50  0000 L CNN
 F 1 "MountingHole" H 2500 6005 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 2400 6050 50  0001 C CNN
+F 2 "modules:MountingHole_3.2mm_M2" H 2400 6050 50  0001 C CNN
 F 3 "~" H 2400 6050 50  0001 C CNN
 	1    2400 6050
 	1    0    0    -1  
@@ -837,7 +837,7 @@ U 1 1 5EF8E867
 P 2400 6250
 F 0 "H2" H 2500 6296 50  0000 L CNN
 F 1 "MountingHole" H 2500 6205 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 2400 6250 50  0001 C CNN
+F 2 "modules:MountingHole_3.2mm_M2" H 2400 6250 50  0001 C CNN
 F 3 "~" H 2400 6250 50  0001 C CNN
 	1    2400 6250
 	1    0    0    -1  
@@ -848,7 +848,7 @@ U 1 1 5EF8E8A7
 P 2400 6450
 F 0 "H3" H 2500 6496 50  0000 L CNN
 F 1 "MountingHole" H 2500 6405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 2400 6450 50  0001 C CNN
+F 2 "modules:MountingHole_3.2mm_M2" H 2400 6450 50  0001 C CNN
 F 3 "~" H 2400 6450 50  0001 C CNN
 	1    2400 6450
 	1    0    0    -1  
@@ -859,7 +859,7 @@ U 1 1 5EF8E8E9
 P 2400 6650
 F 0 "H4" H 2500 6696 50  0000 L CNN
 F 1 "MountingHole" H 2500 6605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 2400 6650 50  0001 C CNN
+F 2 "modules:MountingHole_3.2mm_M2" H 2400 6650 50  0001 C CNN
 F 3 "~" H 2400 6650 50  0001 C CNN
 	1    2400 6650
 	1    0    0    -1  
