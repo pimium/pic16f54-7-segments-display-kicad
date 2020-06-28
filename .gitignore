@@ -1,0 +1,10 @@
+# export files for BOM
+*.csv
+*.tsv
+*.xml
+*.dsn
+*.ses
+*.net
+# backup files
+*bak
+
